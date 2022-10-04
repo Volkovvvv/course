@@ -4,7 +4,7 @@
 	"undef": true,
 	"quotmark": false,
 	"maxlen": 120,
-	"trailing": true,
+	"trailing": false,
 	"curly": true,
 	"strict": false,
 	"browser": true,
